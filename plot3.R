@@ -1,4 +1,4 @@
-# Plot 2 for Energy sub metering
+# Plot 3 for Energy sub metering
 
 # Load data only from 2007-02-01 to 2007-02-02
 setwd("C:/Users/Irina/Dropbox/Coursera/Exploratory Data Analysis/Week1")
